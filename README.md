@@ -1,13 +1,10 @@
-My Awesome ToDo API
---------------------
-
 Introduction
 ------------
-My Awesome ToDo API is a Django REST Framework API that allows users to authenticate, register, and manage their tasks.
+ToDo API is a Django REST Framework API that allows users to authenticate, register, and manage their tasks.
 
 Installation
 ------------
-To install My Awesome ToDo API, follow these steps:
+To install ToDo API, follow these steps:
 
 1. Clone the repository
 2. Install the dependencies
@@ -16,7 +13,7 @@ To install My Awesome ToDo API, follow these steps:
 
 Usage
 -----
-To use My Awesome ToDo API, follow these steps:
+To use ToDo API, follow these steps:
 
 1. Open your web browser
 2. Go to the URL of the API
@@ -25,7 +22,7 @@ To use My Awesome ToDo API, follow these steps:
 
 API Endpoints
 -------------
-Here are the available endpoints in My Awesome ToDo API:
+Here are the available endpoints in ToDo API:
 
 | Endpoint | Description |
 | -------- | ----------- |
@@ -170,7 +167,7 @@ Response:
 
 Contributing
 ------------
-To contribute to My Awesome ToDo API, follow these steps:
+To contribute to ToDo API, follow these steps:
 
 1. Fork the repository
 2. Create a new branch
@@ -179,4 +176,4 @@ To contribute to My Awesome ToDo API, follow these steps:
 
 License
 -------
-My Awesome ToDo API is released under the MIT License.
+ToDo API is released under the MIT License.
