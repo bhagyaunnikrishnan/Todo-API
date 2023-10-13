@@ -174,6 +174,6 @@ To contribute to ToDo API, follow these steps:
 3. Make your changes
 4. Submit a pull request
 
-License
--------
-ToDo API is released under the MIT License.
+
+
+
